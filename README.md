@@ -32,3 +32,5 @@ Styles are handled through CSS variables. To update the colors you just need to 
 | `--searchBg`       | `--containerBg`            | Defines the background color of the search overlay                                                                         |
 | `--scrollbarColor` | `#3f3f3f`                  | Defines the color of the custom scrollbars                                                                                 |
 | `--fontFamily`     | `"Roboto Mono", monospace` | Defines the font used. To change to a custom font you will also have to import that font from whatever source is available |
+
+## This is my customized fork :D
