@@ -4,6 +4,7 @@ const bookmarks = [
     title: "Daily",
     links: [
       { name: "Inbox", url: "https://inbox.google.com" },
+      { name: "Proton", url: "mail.proton.me" },
       { name: "GitHub", url: "https://github.com" },
       { name: "Drive", url: "https://drive.google.com" },
     ],
@@ -12,35 +13,24 @@ const bookmarks = [
     title: "Media",
     links: [
       { name: "Youtube", url: "https://youtube.com" },
-      { name: "Netflix", url: "https://netflix.com" },
-      { name: "Crunchyroll", url: "https://crunchyroll.com" },
-      {
-        name: "Amazon Prime",
-        url: "https://www.amazon.com/Amazon-Video",
-      },
+      { name: "Hotstar", url: "https://hotstar.com" },
     ],
   },
   {
     title: "Reddit",
     links: [
-      { name: "/r/overwatch", url: "https://reddit.com/r/overwatch" },
-      {
-        name: "/r/pcmasterrace",
-        url: "https://reddit.com/r/pcmasterrace",
-      },
-      { name: "/r/me_irl", url: "https://reddit.com/r/me_irl" },
-      {
-        name: "/r/battlestations",
-        url: "https://reddit.com/r/battlestations",
-      },
       { name: "/r/unixporn", url: "https://reddit.com/r/unixporn" },
       { name: "/r/news", url: "https://reddit.com/r/news" },
+      { name: "/r/me_irl", url: "https://reddit.com/r/me_irl" },
+      { name: "/r/IndianTeenagers", url: "https://www.reddit.com/r/IndianTeenagers/" },
     ],
   },
   {
     title: "Social",
     links: [
-      { name: "Twitter", url: "https://twitter.com" },
+      { name: "Instagram", url: "https://www.instagram.com/direct/inbox/" },
+      { name: "X", url: "https://x.com" },
+      { name: "Whatsapp", url: "https://web.whatsapp.com" },
       { name: "Facebook", url: "https://facebook.com" },
     ],
   },
